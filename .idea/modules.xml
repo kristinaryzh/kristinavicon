@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/kristinavicon.iml" filepath="$PROJECT_DIR$/kristinavicon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kristinavicon_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kristinavicon_main.iml" group="kristinavicon" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kristinavicon_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kristinavicon_test.iml" group="kristinavicon" />
+    </modules>
+  </component>
+</project>
